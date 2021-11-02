@@ -1,0 +1,44 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+html{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoejkmzyHcN4VmssORqOq_3-ccrpjAvf5i-g&usqp=CAU');
+    background-size: cover;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+}
+
+.cash{
+    display: flex;
+    justify-content: center;
+}
+table{
+    
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 5px;
+}
+
+th {
+    color: #0AFAF2;
+    text-decoration: underline;
+    font-family: 'Sarpanch', sans-serif;
+    border-style: solid;
+    border-color: #830AFA;
+    padding: 10px;
+    font-size: 25px;
+  }
+
+  td{
+    color: red;
+    font-family: 'Sarpanch', sans-serif;
+    border-style: solid;
+    padding: 10px;
+   }
